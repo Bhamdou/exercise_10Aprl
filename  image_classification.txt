@@ -1,0 +1,4 @@
+In this exercise, we created a Python program that performs image classification using the TensorFlow and Keras libraries.
+We loaded the pre-trained ResNet50 model for image classification and an image for classification.
+We pre-processed the image and performed classification using the model.
+Finally, we displayed the top predicted classes and their probabilities.
